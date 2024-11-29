@@ -50,7 +50,7 @@ To get started with these projects, follow the steps below:
 1. Clone this repository to your local machine (Requires Git to be installed):
 
    ```bash
-   git clone https://github.com/yourusername/custom-python-projects.git
+   git clone https://github.com/Godlikedesigningmachine/Custom-format
    cd custom-python-projects
    ```
 
